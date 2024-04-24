@@ -1,2 +1,1 @@
-# cmpe30052-la-punzalan
-This is a list of laboratory activities from my Data Structures and Algorithms subject.
+> Compilation of Data Structure and Algorithms activities
